@@ -1,10 +1,12 @@
 export default function Nav() {
     return (
       <nav>
-        <a href="#story">Our Story</a>
-        <a href="#details">Details</a>
-        <a href="#rsvp">RSVP</a>
-        <a href="#registry">Registry</a>
+        <a href="#home">Home</a>
+        <a href="#story">A Nossa História</a>
+        <a href="#rsvp">Responder</a>
+        <a href="#details">Informações</a>
+        <a href="#timeline">Horário</a>
+        <a href="#faqs">FAQs</a>
       </nav>
     );
   }

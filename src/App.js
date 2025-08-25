@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
 import Nav from "./components/Nav";
+import Home from "./components/Home";
 import Story from "./components/Story";
 import Details from "./components/Details";
 /*import RSVP from "./components/RSVP";*/
@@ -13,6 +14,7 @@ function App() {
     <>
       <Header />
       <Nav />
+      <Home />
       <Story />
     </>
   );
