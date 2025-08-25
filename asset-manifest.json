@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.a7733fc8.css",
-    "main.js": "./static/js/main.16aecf46.js",
+    "main.css": "./static/css/main.598fa32a.css",
+    "main.js": "./static/js/main.59eabd0c.js",
     "static/js/453.7c9966f9.chunk.js": "./static/js/453.7c9966f9.chunk.js",
+    "static/media/CormorantGaramond-VariableFont_wght.ttf": "./static/media/CormorantGaramond-VariableFont_wght.54f94adb2837e30de8e4.ttf",
+    "static/media/CormorantGaramond-Italic-VariableFont_wght.ttf": "./static/media/CormorantGaramond-Italic-VariableFont_wght.51bcba43ed1a7478f703.ttf",
     "static/media/GlacialIndifference-Regular.otf": "./static/media/GlacialIndifference-Regular.884dc679b35db5f785f2.otf",
+    "static/media/GlacialIndifference-Bold.otf": "./static/media/GlacialIndifference-Bold.e742f534cb2ac8b560c6.otf",
     "index.html": "./index.html",
-    "main.a7733fc8.css.map": "./static/css/main.a7733fc8.css.map",
-    "main.16aecf46.js.map": "./static/js/main.16aecf46.js.map",
+    "main.598fa32a.css.map": "./static/css/main.598fa32a.css.map",
+    "main.59eabd0c.js.map": "./static/js/main.59eabd0c.js.map",
     "453.7c9966f9.chunk.js.map": "./static/js/453.7c9966f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7733fc8.css",
-    "static/js/main.16aecf46.js"
+    "static/css/main.598fa32a.css",
+    "static/js/main.59eabd0c.js"
   ]
 }
