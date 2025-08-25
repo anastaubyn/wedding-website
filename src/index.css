@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("./assets/fonts/GlacialIndifference-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("./assets/fonts/GlacialIndifference-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
 body {
   font-family: "Playfair Display", serif;
   color: #111;
@@ -12,8 +26,11 @@ body {
 }
 
 .logo {
-  font-family: "Great Vibes", cursive;
+  font-family: "Glacial Indifference", sans-serif;
+  font-weight: 700;
   font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   margin: 0;
 }
 
