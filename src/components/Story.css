@@ -1,0 +1,45 @@
+.story {
+    background: #fff;
+    padding: 4rem 2rem;
+  }
+  
+  .story-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+  .story-text {
+    flex: 1;
+  }
+  
+  .story-text h2 {
+    font-family: "Glacial Indifference", sans-serif;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .story-text p {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .story-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .story-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  }
+  

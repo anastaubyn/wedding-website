@@ -13,6 +13,7 @@ function App() {
     <>
       <Header />
       <Nav />
+      <Story />
     </>
   );
 }
