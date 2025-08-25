@@ -1,9 +1,12 @@
 import { useState } from "react";
 import "./Story.css";
 
+import imgMountain from "../assets/images/georgia-mountain.JPG";
+import imgCafe from "../assets/images/cafe-phillipines.JPG";
+
 const images = [
-    "/georgia-mountain.jpg",
-    "/cafe-phillipines.jpg",
+    imgMountain,
+    imgCafe,
   ];
 
 export default function Story() {
@@ -24,7 +27,7 @@ export default function Story() {
             {/* Left side: image */}
           <div className="story-gallery">
             <button className="prev" onClick={prevImage}>❮</button>
-            <img src={images[currentImageIndex]} alt="Our story" />
+            <img src={images[currentImageIndex]} alt="A Nossa História" />
             <button className="next" onClick={nextImage}>❯</button>
           </div>
           {/* Right side: text */}

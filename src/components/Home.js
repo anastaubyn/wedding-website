@@ -1,3 +1,4 @@
+import homeCard from "../assets/images/home-card.JPG"
 import "./Home.css";
 
 export default function Home() {
@@ -6,7 +7,7 @@ export default function Home() {
       <div className="home-inner">
         {/* Left: image card */}
         <figure className="home-card">
-          <img src="/home-card.jpg" alt="Ana & Tomas" />
+          <img src={homeCard} alt="Ana & Tiago" />
         </figure>
 
         {/* Right: text */}
