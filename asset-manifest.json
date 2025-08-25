@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.598fa32a.css",
-    "main.js": "./static/js/main.59eabd0c.js",
+    "main.js": "./static/js/main.3cb22e67.js",
     "static/js/453.7c9966f9.chunk.js": "./static/js/453.7c9966f9.chunk.js",
+    "static/media/cafe-phillipines.JPG": "./static/media/cafe-phillipines.c35bd4225c84fe6578a7.JPG",
+    "static/media/georgia-mountain.JPG": "./static/media/georgia-mountain.f124d9d95702fe73e536.JPG",
     "static/media/CormorantGaramond-VariableFont_wght.ttf": "./static/media/CormorantGaramond-VariableFont_wght.54f94adb2837e30de8e4.ttf",
     "static/media/CormorantGaramond-Italic-VariableFont_wght.ttf": "./static/media/CormorantGaramond-Italic-VariableFont_wght.51bcba43ed1a7478f703.ttf",
+    "static/media/home-card.JPG": "./static/media/home-card.79c15df49eff1976b5e8.JPG",
     "static/media/GlacialIndifference-Regular.otf": "./static/media/GlacialIndifference-Regular.884dc679b35db5f785f2.otf",
     "static/media/GlacialIndifference-Bold.otf": "./static/media/GlacialIndifference-Bold.e742f534cb2ac8b560c6.otf",
     "index.html": "./index.html",
     "main.598fa32a.css.map": "./static/css/main.598fa32a.css.map",
-    "main.59eabd0c.js.map": "./static/js/main.59eabd0c.js.map",
+    "main.3cb22e67.js.map": "./static/js/main.3cb22e67.js.map",
     "453.7c9966f9.chunk.js.map": "./static/js/453.7c9966f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.598fa32a.css",
-    "static/js/main.59eabd0c.js"
+    "static/js/main.3cb22e67.js"
   ]
 }
